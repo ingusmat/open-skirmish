@@ -1,21 +1,24 @@
-# friendly-parakeet
+# open-skirmish
 
-One time, I bought a parakeet training record at a used record shop,
-even though I didn't have a parakeet.  If I did ever get one, I would
-be equipped.
+I like Miniature Wargames like Warhammer, Warmachine, Infinity, etc.
+I dislike the tabletop emulators I've tried.
+I don't think this will ever be commercial, but I want to take a stab at
+making a...
 
-That doesn't have much to do with this library.  This is just a very
-simple starter for a javascript app using webpack and babel, so I
-don't have to write this part every time.
+## Roguelike Isometric Miniature Style Turn-Based Strategy Game
+
+Like the old x-com games before Enemy Unknown?
+
+Yeah. Pretty much.  In Javascript.  This will be a work in progress for quite some time.
 
 ## Installation
-1. Clone this repo and rename it to whatever you want.
-1. Add code to the src directory
+1. Clone this repo
+1. `npm install`
 
 ## Scripts
 1. `npm start` - start the development server
 
 ## Acknowledgement
-This boilerplate is almost entirely based on the following tutoral:
+The boilerplate used here is almost entirely based on the following tutoral:
 https://www.robinwieruch.de/webpack-babel-setup-tutorial/
 created by Robin Wieruch https://twitter.com/rwieruch/
